@@ -1,7 +1,7 @@
 # MCA-WF （IJCNN2023 项目代码说明）
 ## 一、项目概述
 本项目基于 IJCNN2023 会议的相关研究，聚焦视频分类任务，提出了融合多模态信息的分类模型，旨在提升分类准确性与鲁棒性。
-相关dataset数据集数据在实验室云服务器fuxiancode中，论文链接如：https://ieeexplore.ieee.org/abstract/document/10192036 [Multi-channel Attentive Weighting of Visual Frames for Multimodal Video Classification]
+相关dataset数据集数据在实验室云服务器fuxiancode中，论文链接如：[Multi-channel Attentive Weighting of Visual Frames for Multimodal Video Classification](#https://ieeexplore.ieee.org/abstract/document/10192036)
 ## 二、核心模型架构
 ### 1. 基础模型
 基于 GRU 的模型：利用门控循环单元处理时序特征。
